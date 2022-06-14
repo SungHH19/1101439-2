@@ -1,0 +1,43 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    ME.jpg
+#	modified:   images/me.jpg
+#	deleted:    images/pic01.jpg
+#	deleted:    images/pic02.jpg
+#	deleted:    images/pic03.jpg
+#	deleted:    images/pic04.jpg
+#	deleted:    images/pic05.jpg
+#	deleted:    images/pic06.jpg
+#	deleted:    images/pic07.jpg
+#	deleted:    images/pic08.jpg
+#	deleted:    images/pic09.jpg
+#	deleted:    images/pic10.jpg
+#	deleted:    images/pic11.jpg
+#	deleted:    images/pic12.jpg
+#	modified:   index.html
+#	deleted:    "\345\220\203\345\225\245.jpg"
+#	deleted:    "\345\277\203\347\220\206.jpg"
+#	deleted:    "\350\252\262\347\250\213.jpg"
+#	deleted:    "\351\201\212\346\210\262.jpg"
+#	deleted:    "\351\273\236\345\224\261\346\251\237.jpg"
+#
+# Untracked files:
+#	.vscode/
+#	"images/\345\220\203\345\225\245.jpg"
+#	"images/\345\276\265\346\211\215.jpg"
+#	"images/\345\277\203\347\220\206.jpg"
+#	"images/\350\250\202\347\245\250\347\263\273\347\265\261.jpg"
+#	"images/\350\252\262\347\250\213.jpg"
+#	"images/\351\201\212\346\210\262.jpg"
+#	"images/\351\233\273\345\275\261\351\225\267\346\242\235\345\234\226.jpg"
+#	"images/\351\273\236\345\224\261\346\251\237.jpg"
+#	"\345\276\265\346\211\215/"
+#	"\350\250\202\347\245\250/"
+#	"\351\225\267\346\242\235\345\234\226/"
+#
